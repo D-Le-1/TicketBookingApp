@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TicketBooking</string>
+    <string name="skybird">SKYBIRD</string>
+    <string name="fly_anywhere_easily_n_without_obstacles">Fly anywhere easily\n without obstacles</string>
+    <string name="intro_subtitle">Experience the unparalleled\n freedom of unhindered\n flight as you effortlessly travers</string>
+    <string name="get_started">Get Started</string>
+    <string name="an_account">I have an account</string>
+    <string name="passengers">Passengers</string>
+    <string name="passengerss">Passengers</string>
+    <string name="depature_date">Depature Date</string>
+    <string name="search_flights">Search Flights</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="toShort">To</string>
+    <string name="fromShort">From</string>
+    <string name="clast">class</string>
+    <string name="time">time</string>
+    <string name="search_result">Search Result</string>
+</resources>
